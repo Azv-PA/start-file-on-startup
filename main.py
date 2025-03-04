@@ -1,4 +1,5 @@
-# yes i am aware thos could be misused  but i am not responsible for any damage by using this you are Responsible for your own Actions.
+# yes i am aware this could be misused  but i am not responsible for any damage by using this you are Responsible for your own Actions.
+
 import os
 import time
 import shutil
