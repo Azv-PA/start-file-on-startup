@@ -1,4 +1,4 @@
-# yes i am aware this could be misused  but i am not responsible for any damage by using this you are Responsible for your own Actions.
+# you are Responsible for your own Actions.
 
 import os
 import time
